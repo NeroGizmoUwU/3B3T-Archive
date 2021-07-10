@@ -31,13 +31,20 @@ Cambo_Minecarft:
 
 # Point Of Interest
 BorderBase: 29999950 80 29999900
+
 BlockDude Stash: -229990 64 2528
+
 RBXStore: Unknown But Right Near Spawn
+
 Illegal Point: -670 ~ -218 
 # Photos And Schematics
+
 Border Base:
+
 RBXStore: 
+
 BlockDude Stash:
+
 Illegal Point:
 # Importent Events
 Aster Backdooring
