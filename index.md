@@ -6,11 +6,8 @@
 -->
 <html>
 	<head>
-  		
+		<meta name="viewport" content="width=device-width, initial-scale=1">  
 		<title>3B3T-Archive</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
 <link rel="stylesheet" href="css/style.css" />
   </head>
 <body id="top">
