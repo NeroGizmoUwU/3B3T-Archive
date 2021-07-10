@@ -13,7 +13,7 @@ Tubboxx
 # Why Are They Important
 
 RaspberryRBX:
-He Built A Store Called RBXStore And Be Kind To New Players And Gave Them Free Stuff.
+He Built A Store Called RBXStore And Was Kind To New Players And Gave Them Free Stuff.
 
 BlockDude:
 Co Creater Of The BlockDude Stash And A Active Player He Stocked RBXStore
