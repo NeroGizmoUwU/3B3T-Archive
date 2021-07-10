@@ -4,7 +4,6 @@
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">  
 		<title>3B3T-Archive</title>
