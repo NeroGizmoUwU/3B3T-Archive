@@ -14,8 +14,7 @@
   </head>
 <body id="top">
  <header id="header">
-				<h1><strong>People Revival A Semi Old Anarchy Server</strong><br>
+				<h1>People Revival A Semi Old Anarchy Server<h1>
 <li><a href="https://discord.gg/qzGCNCzhTn">DiscordServer</a><li>
-     class="label">LinkedIn</span></a></li>
 				</ul>
 			</header>
