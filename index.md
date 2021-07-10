@@ -1,8 +1,8 @@
 
 ---
-title: 3B3T Archive
+title: 3B3T-Archive
 layout: template
-filename: index.md
+filename: index
 --- 
 
 # Welcome To 3B3T Archive
