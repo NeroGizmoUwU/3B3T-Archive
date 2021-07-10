@@ -1,10 +1,4 @@
 
----
-title: January - February 4th 2021 Era
-layout: template
-filename: index.md
---- 
-
 # January - February 4th 2021 Era
 
 Information and Screenshots Provided By: BlockDude, OreMC, RaspberryPINews, Cambo, RaspberryRBX
