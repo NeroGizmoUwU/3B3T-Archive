@@ -1,7 +1,9 @@
 # Febuary 5th - Febuary 8th Era
 
 Information and Screenshots Provided By: BlockDude, OreMC, RaspberryPINews, Cambo, RaspberryRBX
+
 Current Owner: MineSheep
+
 Images:
 
 <a href="https://i.imgur.com/LWZzhpJ.png" title="MineSheep View">Minesheep View</a>
