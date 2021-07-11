@@ -1,4 +1,4 @@
-Illegal Point: <a href="../index.html" title="Home">Home</a>
+<a href="../index.html" title="Home">Home</a>
 
 
 # January-Febuary-4th-Era
