@@ -30,18 +30,15 @@ RBXStore: Unknown But Right Near Spawn
 Illegal Point: -670 ~ -218
 # Photos And Schematics
 
-BorderBase: <blockquote class="imgur-embed-pub" lang="en" data-id="a/fKFBqCm"  ><a href="//imgur.com/a/fKFBqCm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+BorderBase: https://i.imgur.com/o9Spgyb.png
 
 <a href="https://cdn.discordapp.com/attachments/863089279059755011/863279341806419998/drive-download-20210710T044333Z-001.zip" title="BorderBase Schematic">BorderBase Schematic</a>
 
-RBXStore:
+RBXStore: No Image Yet
 
-BlockDude Stash:
+BlockDude Stash: No Image Yet
 
-Illegal Stash: <blockquote class="imgur-embed-pub" lang="en" data-id="a/6vz0PIl"  ><a href="//imgur.com/a/6vz0PIl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-Illegal Point:
+Illegal Point: https://i.imgur.com/AEdakBF.png
 # Importent Events
 Aster Backdooring 
 Logs 
