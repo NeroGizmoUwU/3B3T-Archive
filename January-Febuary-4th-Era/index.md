@@ -38,7 +38,7 @@ BorderBase: <a href="https://i.imgur.com/o9Spgyb.png" title="BorderBase Image">B
 
 RBXStore: No Image Yet
 
-BlockDude Stash: Video: https://drive.google.com/file/d/1Au9hHvVEhDsvMF9GrVAcY0pwz-zpdmYv/view?usp=sharing
+BlockDude Stash: Video: <a href="https://drive.google.com/file/d/1Au9hHvVEhDsvMF9GrVAcY0pwz-zpdmYv/view?usp=sharing" title="Video">Video</a>
 
 Illegal Point: <a href="https://i.imgur.com/AEdakBF.png" title="Illegal Point Image">Illegal Point Image</a>
 # Importent Events
