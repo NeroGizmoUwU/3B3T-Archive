@@ -1,37 +1,50 @@
 
-# 𝕁𝕒𝕟𝕦𝕒𝕣𝕪 - 𝔽𝕖𝕓𝕣𝕦𝕒𝕣𝕪 𝟜𝕥𝕙 𝟚𝟘𝟚𝟙 𝔼𝕣𝕒
-𝓘𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓢𝓬𝓻𝓮𝓮𝓷𝓼𝓱𝓸𝓽𝓼 𝓟𝓻𝓸𝓿𝓲𝓭𝓮𝓭 𝓑𝔂: 𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮, 𝓞𝓻𝓮𝓜𝓒, 𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂𝓟𝓘𝓝𝓮𝔀𝓼, 𝓒𝓪𝓶𝓫𝓸, 𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂𝓡𝓑𝓧
+# January-Febuary-4th-Era
+Information And Screenshots Was Provided By: BlockDude, OresMC, RaspberryPiNews, Cambo, RaspberryRBX
 # Important Players
-_𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮/𝓜𝓻𝓑𝓵𝓸𝓬𝓴𝓼𝓜𝓪𝓷1300,
-𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂𝓡𝓑𝓧, 
-𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂 𝓟𝓲 𝓝𝓮𝔀𝓼, 
-𝓒𝓪𝓶𝓫𝓸_𝓜𝓲𝓷𝓮𝓬𝓻𝓪𝓯𝓽, 
-𝓐𝓼𝓽𝓮𝓻,
-𝓣𝓾𝓫𝓫𝓸𝔁𝔁
+BlockDude/MrBlockMan1300, 
+RaspberryRBX, 
+RaspberryPiNews, 
+Cambo_Minecraft, 
+Aster, 
+Tubboxx
 # Why Are They Important
 
-𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂𝓡𝓑𝓧: 𝓗𝓮 𝓑𝓾𝓲𝓵𝓽 𝓐 𝓢𝓽𝓸𝓻𝓮 𝓒𝓪𝓵𝓵𝓮𝓭 𝓡𝓑𝓧𝓢𝓽𝓸𝓻𝓮 𝓐𝓷𝓭 𝓦𝓪𝓼 𝓚𝓲𝓷𝓭 𝓣𝓸 𝓝𝓮𝔀 𝓟𝓵𝓪𝔂𝓮𝓻𝓼 𝓐𝓷𝓭 𝓖𝓪𝓿𝓮 𝓣𝓱𝓮𝓶 𝓕𝓻𝓮𝓮 𝓢𝓽𝓾𝓯𝓯.  
-𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮: 𝓒𝓸 𝓒𝓻𝓮𝓪𝓽𝓮𝓻 𝓞𝓯 𝓣𝓱𝓮 𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮 𝓢𝓽𝓪𝓼𝓱 𝓐𝓷𝓭 𝓐 𝓐𝓬𝓽𝓲𝓿𝓮 𝓟𝓵𝓪𝔂𝓮𝓻 𝓗𝓮 𝓢𝓽𝓸𝓬𝓴𝓮𝓭 𝓡𝓑𝓧𝓢𝓽𝓸𝓻𝓮.
-𝓡𝓪𝓼𝓹𝓫𝓮𝓻𝓻𝔂 𝓟𝓲 𝓝𝓮𝔀𝓼:  𝓒𝓸𝓞𝔀𝓷𝓮𝓻 𝓞𝓯 3𝓑3𝓣 𝓐𝓷𝓭 𝓛𝓪𝓰𝓰𝓮𝓭 𝓟𝓒'𝓼 𝓦𝓲𝓽𝓱 𝓕𝓲𝓻𝓮𝔀𝓸𝓻𝓴𝓼.
-𝓐𝓼𝓽𝓮𝓻: 𝓑𝓪𝓬𝓴𝓓𝓸𝓸𝓻𝓮𝓭 3𝓑3𝓣 𝓜𝓪𝓷𝔂 𝓣𝓲𝓶𝓮𝓼.
-𝓣𝓾𝓫𝓫𝓸𝔁𝔁: 𝓒𝓻𝓮𝓪𝓽𝓸𝓻 𝓞𝓯 𝓣𝓱𝓮 𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮 𝓢𝓽𝓪𝓼𝓱 𝓐𝓷𝓭 𝓜𝓪𝓭𝓮 𝓣𝓸𝓷𝓼 𝓞𝓯 𝓘𝓵𝓵𝓮𝓰𝓪𝓵 𝓘𝓽𝓮𝓶𝓼.  
-𝓒𝓪𝓶𝓫𝓸_𝓜𝓲𝓷𝓮𝓬𝓪𝓻𝓯𝓽:  𝓗𝓮𝓵𝓹𝓮𝓭 𝓑𝓵𝓸𝓬𝓴𝓭𝓾𝓭𝓮 𝓶𝓪𝓴𝓮 𝓽𝓸𝓷𝓼 𝓸𝓯 𝓲𝓵𝓵𝓮𝓰𝓪𝓵 𝓲𝓽𝓮𝓶𝓼 𝓪𝓷𝓭 𝓝𝓑𝓣 𝓴𝓲𝓽𝓼
+RaspberryRBX: He Built RBXStore And Was Kind To New Players And Gave Them Free Stuff.
+
+BlockDude: Co Creator Of The BlockDude Stash And A Active Player. He Stocked RBXStore With Supplies.
+
+RaspberryPiNews: CoOwner Of 3B3T And Lagged PC’s With Fireworks.
+
+Tubboxx: Creator Of The BlockDude Stash And Made Tons Of Illegal Items.
+
+Cambo_Minecraft: Helped BlockDude Make Tons Of illegal Items And NBT Kits.
 
 # Point Of Interest
-𝓑𝓸𝓻𝓭𝓮𝓻𝓑𝓪𝓼𝓮: 29999950 80 29999900  
-𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮 𝓢𝓽𝓪𝓼𝓱: -229990 64 2528  
-𝓡𝓑𝓧𝓢𝓽𝓸𝓻𝓮: 𝓤𝓷𝓴𝓷𝓸𝔀𝓷 𝓑𝓾𝓽 𝓡𝓲𝓰𝓱𝓽 𝓝𝓮𝓪𝓻 𝓢𝓹𝓪𝔀𝓷  
-𝓘𝓵𝓵𝓮𝓰𝓪𝓵 𝓟𝓸𝓲𝓷𝓽: -670 ~ -218
+BorderBase: 29999950 80 29999900
+
+BlockDude Stash: -229990 64 2528
+
+RBXStore: Unknown But Right Near Spawn
+
+Illegal Point: -670 ~ -218
 # Photos And Schematics
 
-𝓑𝓸𝓻𝓭𝓮𝓻 𝓑𝓪𝓼𝓮:  
-𝓡𝓑𝓧𝓢𝓽𝓸𝓻𝓮:   
-𝓑𝓵𝓸𝓬𝓴𝓓𝓾𝓭𝓮 𝓢𝓽𝓪𝓼𝓱:
+BorderBase: <blockquote class="imgur-embed-pub" lang="en" data-id="a/fKFBqCm"  ><a href="//imgur.com/a/fKFBqCm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+<a href="https://cdn.discordapp.com/attachments/863089279059755011/863279341806419998/drive-download-20210710T044333Z-001.zip" title="BorderBase Schematic">BorderBase Schematic</a>
+
+RBXStore:
+
+BlockDude Stash:
+
+Illegal Stash: <blockquote class="imgur-embed-pub" lang="en" data-id="a/6vz0PIl"  ><a href="//imgur.com/a/6vz0PIl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Illegal Point:
 # Importent Events
-𝓐𝓼𝓽𝓮𝓻 𝓑𝓪𝓬𝓴𝓭𝓸𝓸𝓻𝓲𝓷𝓰 
-𝓛𝓸𝓰𝓼 
-𝓣𝓮𝓵𝓮𝓹𝓸𝓻𝓽𝓮𝓭
+Aster Backdooring 
+Logs 
+Teleported
 # What Happend In The Events
-𝓐𝓼𝓽𝓮𝓻 𝓑𝓪𝓬𝓴𝓭𝓸𝓸𝓻𝓮𝓭 𝓣𝓱𝓮 𝓢𝓮𝓻𝓿𝓮𝓻 𝓑𝔂 𝓐𝓬𝓬𝓮𝓼𝓼𝓲𝓷𝓰 𝓡𝓟𝓘𝓝𝓮𝔀𝓼 𝓑𝓮𝓭𝓻𝓸𝓬𝓴 𝓐𝓵𝓽 𝓐𝓬𝓬𝓸𝓾𝓷𝓽.
+Aster Backdoored The Server By Access By Accessing RPINews Bedrock Alt Account
