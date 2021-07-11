@@ -1,3 +1,5 @@
+Illegal Point: <a href="../index.html" title="Home">Home</a>
+
 
 # January-Febuary-4th-Era
 Information And Screenshots Was Provided By: BlockDude, OresMC, RaspberryPiNews, Cambo, RaspberryRBX
@@ -30,7 +32,7 @@ RBXStore: Unknown But Right Near Spawn
 Illegal Point: -670 ~ -218
 # Photos And Schematics
 
-BorderBase: https://i.imgur.com/o9Spgyb.png
+BorderBase: <a href="https://i.imgur.com/o9Spgyb.png" title="BorderBase Image">BorderBase Image</a>
 
 <a href="https://cdn.discordapp.com/attachments/863089279059755011/863279341806419998/drive-download-20210710T044333Z-001.zip" title="BorderBase Schematic">BorderBase Schematic</a>
 
@@ -38,7 +40,7 @@ RBXStore: No Image Yet
 
 BlockDude Stash: No Image Yet
 
-Illegal Point: https://i.imgur.com/AEdakBF.png
+Illegal Point: <a href="https://i.imgur.com/AEdakBF.png" title="Illegal Point Image">Illegal Point Image</a>
 # Importent Events
 Aster Backdooring 
 Logs 
